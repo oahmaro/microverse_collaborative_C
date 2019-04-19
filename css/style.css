@@ -1,6 +1,8 @@
 #navbar {
-  margin: auto;
-  position:fixed
+  position:fixed;
+  right: 0;
+  margin-right: 50px;
+  padding: 10px;
 }
 
 @media screen and (max-width: 800px) {
