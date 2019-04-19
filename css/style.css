@@ -1,5 +1,6 @@
 #navbar {
-  text-align: center
+  margin: auto;
+  position:fixed
 }
 
 @media screen and (max-width: 800px) {
@@ -9,14 +10,13 @@
 }
 
 #welcome-section {
-  padding-top: 500px;
-  padding-bottom: 500px;
+  padding-top: 45vh;
   text-align: center;
-   background-color:#e0ebe8
+   background-color:#e0ebe8;
+   min-height: 55vh
 }
 
 .headline {
   text-align: center;
    color: #008080
 }
-
